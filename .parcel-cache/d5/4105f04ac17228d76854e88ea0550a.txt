@@ -1,12 +1,12 @@
-2671
+2673
 24E:\Record\cv-1\.cache\97132671650185596269 1
 27E:\Record\cv-1\package.json132672480114726674 0
-38E:\Record\cv-1\dist\index.368d37a7.css132672519428923264 0
+38E:\Record\cv-1\dist\index.368d37a7.css132672524041471231 0
 32E:\Record\cv-1\package-lock.json132672480115863642 0
 54E:\Record\cv-1\node_modules\entities\lib\maps\xml.json121436361000000000 0
-19E:\Record\cv-1\dist132672519429052914 1
+19E:\Record\cv-1\dist132672524041551015 1
 71E:\Record\cv-1\node_modules\postcss-normalize-repeat-style\CHANGELOG.md121436361000000000 0
-42E:\Record\cv-1\dist\index.368d37a7.css.map132672519429022997 0
+42E:\Record\cv-1\dist\index.368d37a7.css.map132672524041531068 0
 56E:\Record\cv-1\node_modules\svgo\plugins\cleanupAttrs.js121436361000000000 0
 50E:\Record\cv-1\node_modules\css-declaration-sorter132672480052014212 1
 25E:\Record\cv-1\.gitignore132672484217301798 0
@@ -28,7 +28,7 @@
 41E:\Record\cv-1\node_modules\is-resolvable132672480051854638 1
 56E:\Record\cv-1\node_modules\is-absolute-url\package.json132672480043297489 0
 54E:\Record\cv-1\node_modules\postcss-svgo\dist\index.js121436361000000000 0
-26E:\Record\cv-1\src\main.js132672424743294416 0
+26E:\Record\cv-1\src\main.js132672522044674451 0
 73E:\Record\cv-1\node_modules\postcss-merge-longhand\dist\lib\minifyTrbl.js121436361000000000 0
 60E:\Record\cv-1\node_modules\svgo\plugins\_applyTransforms.js121436361000000000 0
 57E:\Record\cv-1\node_modules\mdn-data\api\inheritance.json121436361000000000 0
@@ -1598,7 +1598,7 @@
 46E:\Record\cv-1\node_modules\domelementtype\lib132672479961055785 1
 50E:\Record\cv-1\node_modules\domelementtype\LICENSE121436361000000000 0
 55E:\Record\cv-1\node_modules\domelementtype\package.json132672480043287516 0
-37E:\Record\cv-1\dist\index.bd78eeec.js132672516353696926 0
+37E:\Record\cv-1\dist\index.bd78eeec.js132672522254412727 0
 55E:\Record\cv-1\node_modules\domelementtype\lib\index.js121436361000000000 0
 72E:\Record\cv-1\node_modules\caniuse-lite\data\features\css-apply-rule.js121436361000000000 0
 46E:\Record\cv-1\node_modules\dom-serializer\lib132672479978251269 1
@@ -2067,7 +2067,7 @@
 59E:\Record\cv-1\node_modules\caniuse-lite\data\regions\KN.js121436361000000000 0
 59E:\Record\cv-1\node_modules\caniuse-lite\data\regions\KP.js121436361000000000 0
 59E:\Record\cv-1\node_modules\caniuse-lite\data\regions\KR.js121436361000000000 0
-41E:\Record\cv-1\dist\index.bd78eeec.js.map132672516353786679 0
+41E:\Record\cv-1\dist\index.bd78eeec.js.map132672522254542381 0
 59E:\Record\cv-1\node_modules\caniuse-lite\data\regions\LA.js121436361000000000 0
 73E:\Record\cv-1\node_modules\caniuse-lite\data\features\css-placeholder.js121436361000000000 0
 59E:\Record\cv-1\node_modules\caniuse-lite\data\regions\LB.js121436361000000000 0
@@ -2418,7 +2418,7 @@
 71E:\Record\cv-1\node_modules\caniuse-lite\data\features\text-overflow.js121436361000000000 0
 69E:\Record\cv-1\node_modules\caniuse-lite\data\features\text-stroke.js121436361000000000 0
 69E:\Record\cv-1\node_modules\caniuse-lite\data\features\textencoder.js121436361000000000 0
-42E:\Record\cv-1\dist\index.de60a1d7.css.map132672516353796656 0
+42E:\Record\cv-1\dist\index.de60a1d7.css.map132672522254542381 0
 64E:\Record\cv-1\node_modules\caniuse-lite\data\features\tls1-1.js121436361000000000 0
 63E:\Record\cv-1\node_modules\caniuse-lite\data\features\touch.js121436361000000000 0
 70E:\Record\cv-1\node_modules\caniuse-lite\data\features\transforms2d.js121436361000000000 0
@@ -2517,11 +2517,13 @@
 24E:\Record\cv-1\.cache\76132671650185111971 1
 43E:\Record\cv-1\node_modules\.bin\cssesc.ps1132672480056212988 0
 41E:\Record\cv-1\node_modules\.bin\svgo.cmd132672480057070732 0
+37E:\Record\cv-1\dist\index.890589d4.js132672524041142113 0
+41E:\Record\cv-1\dist\index.890589d4.js.map132672524041511122 0
 37E:\Record\cv-1\dist\index.b8655c73.js132672519428923264 0
 41E:\Record\cv-1\dist\index.b8655c73.js.map132672519429022997 0
-38E:\Record\cv-1\dist\index.de60a1d7.css132672516353696926 0
+38E:\Record\cv-1\dist\index.de60a1d7.css132672522254412727 0
 24E:\Record\cv-1\.cache\4e132671650184260009 1
-30E:\Record\cv-1\dist\index.html132672519428913304 0
+30E:\Record\cv-1\dist\index.html132672524041132142 0
 36E:\Record\cv-1\dist\main.1f19ae8e.js132672504180295956 0
 24E:\Record\cv-1\.cache\01132671650182899766 1
 24E:\Record\cv-1\.cache\02132671650182899766 1
