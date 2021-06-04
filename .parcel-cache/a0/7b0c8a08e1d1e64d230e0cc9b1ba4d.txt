@@ -1,12 +1,10 @@
-2671
+2669
 24E:\Record\cv-1\.cache\97132671650185596269 1
 27E:\Record\cv-1\package.json132672480114726674 0
-38E:\Record\cv-1\dist\index.368d37a7.css132672519428923264 0
 32E:\Record\cv-1\package-lock.json132672480115863642 0
 54E:\Record\cv-1\node_modules\entities\lib\maps\xml.json121436361000000000 0
-19E:\Record\cv-1\dist132672519429052914 1
+19E:\Record\cv-1\dist132672516353816605 1
 71E:\Record\cv-1\node_modules\postcss-normalize-repeat-style\CHANGELOG.md121436361000000000 0
-42E:\Record\cv-1\dist\index.368d37a7.css.map132672519429022997 0
 56E:\Record\cv-1\node_modules\svgo\plugins\cleanupAttrs.js121436361000000000 0
 50E:\Record\cv-1\node_modules\css-declaration-sorter132672480052014212 1
 25E:\Record\cv-1\.gitignore132672484217301798 0
@@ -2517,11 +2515,11 @@
 24E:\Record\cv-1\.cache\76132671650185111971 1
 43E:\Record\cv-1\node_modules\.bin\cssesc.ps1132672480056212988 0
 41E:\Record\cv-1\node_modules\.bin\svgo.cmd132672480057070732 0
-37E:\Record\cv-1\dist\index.b8655c73.js132672519428923264 0
-41E:\Record\cv-1\dist\index.b8655c73.js.map132672519429022997 0
+37E:\Record\cv-1\dist\index.b8655c73.js132672510552366644 0
+41E:\Record\cv-1\dist\index.b8655c73.js.map132672510552426491 0
 38E:\Record\cv-1\dist\index.de60a1d7.css132672516353696926 0
 24E:\Record\cv-1\.cache\4e132671650184260009 1
-30E:\Record\cv-1\dist\index.html132672519428913304 0
+30E:\Record\cv-1\dist\index.html132672516353686954 0
 36E:\Record\cv-1\dist\main.1f19ae8e.js132672504180295956 0
 24E:\Record\cv-1\.cache\01132671650182899766 1
 24E:\Record\cv-1\.cache\02132671650182899766 1
